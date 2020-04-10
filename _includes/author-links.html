@@ -107,14 +107,6 @@
         </a>
       </li>
     {%- endif -%}
-
-    {%- if _author.npm -%}
-      <li title="{{ _locale_string_follow | replace: '[NAME]', 'npm' }}">
-        <a class="button button--circle npm-button" itemprop="sameAs" href="https://www.npmjs.com/~{{ _author.npm }}" target="_blank">
-          <div class="icon">{%- include svg/icon/social/npm.svg -%}</div>
-        </a>
-      </li>
-    {%- endif -%}
     
     {%- if _author.bilibili -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', '哔哩哔哩' }}">
@@ -124,5 +116,13 @@
       </li>
     {%- endif -%}
     
+    {%- if _author.npm -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'npm' }}">
+        <a class="button button--circle npm-button" itemprop="sameAs" href="https://www.npmjs.com/~{{ _author.npm }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/npm.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
+
   </ul>
 </div>
