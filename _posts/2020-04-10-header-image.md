@@ -4,7 +4,7 @@ title: 带头图测试
 tags: TeXt
 article_header:
   type: overlay
-  image:
+  background_image:
     src: /screenshot.jpg
 ---
 
