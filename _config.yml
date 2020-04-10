@@ -49,7 +49,7 @@ author:
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
-  bilibili  : 1350320 # "user_id" the last part of your profile url, e.g. https://space.bilibili.com/~user_id
+  bilibili  : 1350320 # "user_id" the last part of your profile url, e.g. https://space.bilibili.com/user_id
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
