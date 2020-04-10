@@ -38,6 +38,9 @@
       .npm-button {
         @include clickable($text-color-1, $npm-color);
       }
+      .bilibili-button {
+        @include clickable($text-color-1, $bilibili-color);
+      }
     }
   }
 }
