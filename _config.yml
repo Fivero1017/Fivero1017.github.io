@@ -22,9 +22,7 @@ url     : https://5wenbin.com # the base hostname & protocol for your site e.g. 
 baseurl : # does not include hostname
 title   : 5Wenbin
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
-
-
+  毫无意义 乱七八糟
 ## => Language and Timezone
 ##############################
 lang: zh-CN # the language of your site, default as "en"
