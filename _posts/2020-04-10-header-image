@@ -1,9 +1,9 @@
 ---
-key: 2018-06-01-header-image
-title: Post with Header Image
+key: 2020-04-10-header-image
+title: 带头图测试
 tags: TeXt
 article_header:
-  type: cover
+  type: overlay
   image:
     src: /screenshot.jpg
 ---
