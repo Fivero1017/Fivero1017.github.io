@@ -127,7 +127,7 @@ comments:
   gitalk:
     clientID    : 484d41ea665d8d7fc583 # GitHub Application Client ID
     clientSecret: 163ca67b2ceeb1e911c1daed60c0c2f7d38cc840 # GitHub Application Client Secret
-    repository  : Fivero1017.github.io # GitHub repo
+    repository  : comments # GitHub repo
     owner       : Fivero1017 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - "Fivero1017" # - your GitHub Id
