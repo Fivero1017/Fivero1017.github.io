@@ -5,7 +5,6 @@ cover: 'https://inews.gtimg.com/newsapp_bt/0/9705127886/1000'
 tags: 历史 许倬云
 article_header:
   type: overlay
-  theme: dark
 ---
 
 info
