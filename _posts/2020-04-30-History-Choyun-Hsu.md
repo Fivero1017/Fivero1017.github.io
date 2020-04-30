@@ -4,7 +4,6 @@ title: 第一章，古代两河流域与埃及地区城市的出现——《历�
 tags: 历史 许倬云
 article_header:
   type: overlay
-  theme: light
 ---
 
 高中历史实在是没有学好
