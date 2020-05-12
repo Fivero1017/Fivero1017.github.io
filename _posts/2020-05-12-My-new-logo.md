@@ -16,7 +16,7 @@ tags: 设计 Logo
 
 就从「5」「w」「b」这三个元素入手，字体选择了苹果系统上最常见的 Helvetica[^1]  
 
-![Helvetica部分字体外观](http://www.identifont.com/samples2/adobe/HelveticaBold.gif "Helvetica字母")  
+![Helvetica部分字体外观](https://www.lifewire.com/thmb/tusui0XZVthjPYyyhhGnYO284TE=/1000x876/filters:no_upscale():max_bytes(150000):strip_icc()/fonts-5b2591e73418c600377b2533.jpg "Helvetica字母")  
 
 经过反复修改三个字符的字号、粗细、斜体后，第一版拼出了这么一个东西  
 
