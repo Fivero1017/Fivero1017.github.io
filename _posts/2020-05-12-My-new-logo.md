@@ -20,7 +20,7 @@ tags: 设计 Logo
 
 经过反复修改三个字符的字号、粗细、斜体后，第一版拼出了这么一个东西  
 
-![「5」做了水平翻转，最上面的横调整了一下倾斜度，整体看起来像一张人脸](http://5wenbin.sc2yun.com/logo_old.png "第一版Logo")  
+![「5」做了水平翻转，最上面的横调整了一下倾斜度，整体看起来像一张人脸](http://1.5wenbin.sc2yun.com/logo_old.png "第一版Logo")  
 
 ## 迭代 and 迭代 again  
 
@@ -30,13 +30,13 @@ tags: 设计 Logo
 
 ![图片来自网络](https://gss0.baidu.com/-4o3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=0bb4005777310a55c471d6f287756f91/314e251f95cad1c85b046683713e6709c83d51d3.jpg "昆虫图片")  
 
-![字符互相连接，调整了字体大小使「w」和「b」连接处的斜度相同](http://5wenbin.sc2yun.com/logo_without_eye.png "第二版Logo")  
+![字符互相连接，调整了字体大小使「w」和「b」连接处的斜度相同](http://1.5wenbin.sc2yun.com/logo_without_eye.png "第二版Logo")  
 
 既然是昆虫，就自然而然的想到了复眼，最初想用正六边形铺满眼睛内部，但是操作比较麻烦，最后发现PS默认的透明棋盘格背景就是很好的素材。  
 
 ![图片来自网络](https://tse4-mm.cn.bing.net/th/id/OIP.8AQmlL_uQNn4JELRlOPMkwAAAA "复眼图片")  
 
-![有内味儿了](http://5wenbin.sc2yun.com/logo.png "添加复眼")  
+![有内味儿了](http://1.5wenbin.sc2yun.com/logo.png "添加复眼")  
 
 ## 意外收获  
 
