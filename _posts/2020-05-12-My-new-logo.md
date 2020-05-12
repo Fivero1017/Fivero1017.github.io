@@ -61,5 +61,5 @@ tags: 设计 Logo
 以上，最新 Logo 已经替换至网站。  
 
 [^1]:一种被广泛使用的的西文字体，于1957年由瑞士字体设计师爱德华德·霍夫曼（Eduard Hoffmann）和马克斯·米耶丁格（Max Miedinger）设计。  
-[^2]:由 Justin Roiland 和 Dan Harmon 为卡通网络深夜节目Adult Swim创作的美国成人动画科幻情景喜剧，国内可在ACFUN可以观看。  
+[^2]:由 Justin Roiland 和 Dan Harmon 为卡通网络深夜节目Adult Swim创作的美国成人动画科幻情景喜剧，国内在ACFUN可以观看。  
 [^3]:刘慈欣创作的系列长篇科幻小说，由《三体》、《三体Ⅱ·黑暗森林》、《三体Ⅲ·死神永生》组成。  
